@@ -1,14 +1,5 @@
 /**
- * Created by mass on 12/5/14.
- * Developed by Mass Mirboboev.
- *
- * Task #1 Trip Sorter API.
- *
- * For all data next keys are required: //todo Implement validation on this keys
- *  - type -> Card type (for now Bus, Plane, Train).
- *            Adding new card types are as easily as defining simple functions.
- *  - from -> Departure point.
- *  - to   -> Arrival point.
+ * Trip Sorter API
  *
  * Input data types:
  *
