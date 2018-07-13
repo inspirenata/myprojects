@@ -1,5 +1,5 @@
-В данном репозитории представлено решение двух заданий:
+Two projects in this repository:
 
-Задание 1 - Сортировка карточек путешественника.
+Project 1 - Traveller's cards sorting program.
 
-Задание 2 - JS-фрэймворк для работы с DOM & CSS.
+Project 2 - JS-framework for working with DOM & CSS.
